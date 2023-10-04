@@ -1795,6 +1795,8 @@
       "brandName": "Ansari",
       "price": 999,
       "category": "top-wear",
+          "gender":"female",
+          "size":"m",
       "discount": 170,
       "shipping": 3,
       "quntity": 1,
